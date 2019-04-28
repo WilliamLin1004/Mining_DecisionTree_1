@@ -1,4 +1,4 @@
-# DecisionTree_1
+# Mining_DecisionTree_1
 This is the second assignment for a data mining related course.  This assigment focuses on using Decision Tree as a classifier.
 
 ## Weka
